@@ -1,0 +1,15 @@
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Collections-Practice\bin\Debug\net6.0\Collections-Practice.exe
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Collections-Practice\bin\Debug\net6.0\Collections-Practice.deps.json
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Collections-Practice\bin\Debug\net6.0\Collections-Practice.runtimeconfig.json
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Collections-Practice\bin\Debug\net6.0\Collections-Practice.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Collections-Practice\bin\Debug\net6.0\Collections-Practice.pdb
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Collections-Practice\obj\Debug\net6.0\Collections-Practice.csproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Collections-Practice\obj\Debug\net6.0\Collections-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Collections-Practice\obj\Debug\net6.0\Collections-Practice.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Collections-Practice\obj\Debug\net6.0\Collections-Practice.AssemblyInfo.cs
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Collections-Practice\obj\Debug\net6.0\Collections-Practice.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Collections-Practice\obj\Debug\net6.0\Collections-Practice.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Collections-Practice\obj\Debug\net6.0\refint\Collections-Practice.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Collections-Practice\obj\Debug\net6.0\Collections-Practice.pdb
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Collections-Practice\obj\Debug\net6.0\Collections-Practice.genruntimeconfig.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\Language Essentials\Collections-Practice\obj\Debug\net6.0\ref\Collections-Practice.dll
